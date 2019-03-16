@@ -6,6 +6,10 @@
         {
             "name": "Alexander",
             "email": "alexanderkoltygin@gmail.com"
+        },
+	{
+            "name": "AnnaEvgrashina",
+            "email": "anna2001evgrashina@gmail.com"
         }
     ],
     "require-dev": {
