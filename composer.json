@@ -10,6 +10,10 @@
 	{
             "name": "AnnaEvgrashina",
             "email": "anna2001evgrashina@gmail.com"
+        },
+    	{
+            "name": "AndrewZolotarev",
+            "email": "pkmed.dev@gmail.com"
         }
     ],
     "require-dev": {
