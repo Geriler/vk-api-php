@@ -1,7 +1,7 @@
 {
     "name": "geriler/vk-api-php",
     "type": "library",
-    "license": "MIT",
+    "license": "The Unlicense",
     "authors": [
         {
             "name": "Alexander",
