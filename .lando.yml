@@ -1,0 +1,9 @@
+name: vk-api-php
+recipe: lemp
+config:
+  webroot: .
+services:
+  appserver:
+    type: php:7.2
+    xdebug: true
+

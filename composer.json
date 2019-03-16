@@ -1,0 +1,14 @@
+{
+    "name": "geriler/vk-api-php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "alexanderkoltygin@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
